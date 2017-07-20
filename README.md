@@ -11,8 +11,10 @@ Please cite the above work if you use these data in new analyses.
 
 ### 800typists.txt
 Contains keystroke timing data for 800 typists who each copy typed a single paragraph of approximately 120 words. The .txt file has four columns:
+  
   a. subject - subject number
   b. paragraph_label - indicates which paragraph (1 to 4) they typed
   c. typed_paragraph - the letters that were typed
   d. time_stamps - UNIX timestamps in milliseconds for each keystroke
+
 The 800typists_readme.txt contains the four original paragraphs, which can be used to code for errors.
